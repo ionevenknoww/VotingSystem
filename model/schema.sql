@@ -18,4 +18,4 @@ CREATE TABLE `VotingSystem`.`Users` (
 
 INSERT INTO Roles(role_name) VALUES ("admin")
 
-INSERT INTO Users(username, password, role_id) VALUES ('tephL', '123456', 1000);
+  INSERT INTO Users(username, password, role_id) VALUES ('tephL', '123456', 1000);
